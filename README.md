@@ -18,3 +18,5 @@
 안드로이드 기기를 CCTV로 대체하여 안드로이드 스튜디오를 통해 현재 촬영하고 있는 영상을 사진으로 변환하는 절차와 아이의 얼굴과 사진을 비교하는 절차를 구현하기 위해 Microsoft Azure 플랫폼의 Face API를 활용하여 구현하였습니다. 웹사이트의 경우 Bootstrap 템플릿을 이용였으며 네이버 Maps API를 활용하였고, Node.js를 이용해 서버를 구축하였습니다. 
 
 참고자료 : Microsoft Azure Face API https://azure.microsoft.com/ko-kr/services/cognitive-services/face/ 
+
+결과영상 : https://www.youtube.com/watch?v=2VzF8OZBReU&feature=youtu.be
